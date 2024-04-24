@@ -27,7 +27,7 @@ A comprehensive booking management system designed to streamline the process of 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/booking-management-system.git`
+1. Clone the repository: `git clone https://github.com/msi-end/booking-management-system.git`
 2. Navigate to the project directory: `cd booking-management-system`
 3. Install dependencies: `npm install`
 4. Set up environment variables for configuration.
@@ -48,9 +48,9 @@ A comprehensive booking management system designed to streamline the process of 
 Contributions are welcome! To contribute to this project, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
+2. Create a new branch for your feature.
+3. Commit your changes.
+4. Push to the branch.
 5. Submit a pull request.
 
 Please ensure that your code follows the established coding standards and includes appropriate documentation.
